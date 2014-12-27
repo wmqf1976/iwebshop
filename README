@@ -1,0 +1,9 @@
+This is a test!
+step:
+======================================
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/wmqf1976/iwebshop.git
+git push -u origin master
